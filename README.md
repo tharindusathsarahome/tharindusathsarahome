@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharindu Sathsara</h1>
 <h3 align="center">Co Founder @ FutureX | Full Stack Developer</h3>
+
+<br>
 <img align="right" alt="Programming..." width="500" src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/main/4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindusathsarahome&label=Profile%20views&color=0e75b6&style=flat" alt="tharindusathsarahome" /> </p>
