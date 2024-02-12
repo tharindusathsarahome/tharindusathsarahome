@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharindu Sathsara</h1>
 <h3 align="center">Co Founder @ FutureX | Full Stack Developer</h3>
+<h3 align="center">Undergraduate BSc(Hons) in Artificial Intelligence, University of Moratuwa</h3>
 
 <br>
 <img align="right" alt="Programming..." width="500" src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/main/4.webp">
