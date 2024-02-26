@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tharindu Sathsara</h1>
 <h3 align="center">Co Founder @ FutureX | Full Stack Developer</h3>
 <h3 align="center">Undergraduate BSc(Hons) in Artificial Intelligence, University of Moratuwa</h3>
-
 <br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=8D20F7&random=false&width=700&lines=Full+Stack+Developer+with+2%2B+years+experience.;Expert+in+web+technologies+and+frameworks.;Passionate+about+AI+and+its+applications.;Actively+contribute+to+open+source+projects.;Aesthetic-focused+UI%2FUX+developer.;Problem+solver+with+a+strategic+approach.)](https://git.io/typing-svg)
+
 <img align="right" alt="Programming..." width="500" src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/main/4.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindusathsarahome&label=Profile%20views&color=0e75b6&style=flat" alt="tharindusathsarahome" /> </p>
