@@ -20,7 +20,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharindusathsarahome&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></p>
 <br>
 
-![snake animation](https://github.com/tharindusathsarahome/tharindusathsarahome/blob/output/github-contribution-grid-snake2.svg)
 <p><img src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/main/snake.svg" alt="Snake animation" /></p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tharindusathsarahome&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
