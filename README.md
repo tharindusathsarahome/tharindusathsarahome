@@ -10,9 +10,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindusathsarahome&label=Profile%20views&color=0e75b6&style=flat" alt="tharindusathsarahome" /> </p>
 
 
-- 🔭 I’m currently working on [FutureX Labs](http://futrxlabs.com/)
+- 🔭 I’m currently manage projects on [FutureX Labs](http://futrxlabs.com/)
 
-- 👨‍💻 All of my projects are available at [https://futrxlabs.com/portfolio/](https://futrxlabs.com/portfolio/)
+- 👨‍💻 All of my projects are available at [https://tharindusathsara.futrxlabs.com/](https://tharindusathsara.futrxlabs.com/)
 
 - 📫 How to reach me **tharindusathsarahome@gmail.com**
 <br>
