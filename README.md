@@ -3,7 +3,7 @@
 <h3 align="center">Undergraduate BSc(Hons) in Artificial Intelligence, University of Moratuwa</h3>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=8D20F7&random=false&width=700&lines=Full+Stack+Developer+with+2%2B+years+experience.;Expert+in+web+technologies+and+frameworks.;Passionate+about+AI+and+its+applications.;Actively+contribute+to+open+source+projects.;Aesthetic-focused+UI%2FUX+developer.;Problem+solver+with+a+strategic+approach.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=8D20F7&random=false&width=700&lines=Full+Stack+Developer+with+2%2B+years+experience.;Expert+in+web+technologies+and+frameworks.;Passionate+about+AI+and+its+applications.;Aesthetic-focused+UI%2FUX+developer.;Problem+solver+with+a+strategic+approach.)](https://git.io/typing-svg)
 
 <img align="right" alt="Programming..." width="500" src="https://raw.githubusercontent.com/tharindusathsarahome/tharindusathsarahome/main/main/4.webp">
 
